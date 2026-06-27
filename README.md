@@ -146,8 +146,3 @@ The dashboard is intended solely for informational and analytical purposes. User
 Developed by: DAKSH LAHOTY 
 Built using: Microsoft Excel + Power Query  
 Version: V1
-
----
-
-
-It demonstrates practical application of data cleaning, transformation, and dashboard design using Excel-based analytics tools.
