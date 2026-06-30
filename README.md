@@ -2,16 +2,15 @@
 An Excel-based decision support system for University of Delhi admissions that combines official cutoffs, placement data, fees, and institutional metrics to help applicants make informed college choices based on CUET marks.
 
 ## Overview
-
-The **Delhi University Admissions Decision Support Dashboard** is an Excel-based analytics project designed to help prospective students make informed decisions while selecting colleges and courses under the University of Delhi.
+**Delhi University Admissions Decision Support Dashboard** is an Excel-based analytics project designed to help prospective students make informed decisions while selecting colleges and courses under the University of Delhi.
 
 Every CUET admission cycle, students face difficulty comparing colleges due to scattered information across cutoff PDFs, college websites, and unofficial online sources. This project solves that problem by consolidating **official admission cutoffs, institutional data, and placement information** into a structured, interactive dashboard.
 
-The system requires users to input their course and marks and provides them with a filtered view of colleges they are eligible for, along with comparative insights such as cutoffs, placements, and institutional quality indicators.
+Users input their course and marks and are provided with a filtered view of colleges they are eligible for, along with comparative insights such as cutoffs, placements, and institutional quality indicators.
 
 ## Problem Statement - Pain point identified and solved
 
-University of Delhi admission data is publicly available but highly fragmented across multiple sources and formats. Students typically rely on:
+University of Delhi cutoff data is publicly available but is highly fragmented across multiple sources and formats. Students usually rely on:
 - Cutoff prediction websites  
 - Static PDF documents  
 - Manual comparison of colleges  
@@ -22,7 +21,7 @@ Which leads to:
 - inaccurate expectations about admission chances  
 - difficulty comparing institutions systematically  
 
-The goal of this project is to create a **centralized decision support system** that organizes official data into a usable analytical format.
+The goal of this project is to create a **decision support system** that organizes official data into a usable analytical format.
 ---
 ## Objectives
 
@@ -70,7 +69,7 @@ No unofficial prediction data or third-party estimates have been used.
 
 ## Data Processing (ETL Pipeline)
 
-The project follows a structured **Extract → Transform → Load (ETL)** approach using **Microsoft Power Query**.
+The project follows a structured **Extract - Transform - Load (ETL)** approach using **Microsoft Power Query**.
 
 ### 1. Extract
 Raw data is collected from official DU admission PDFs and institutional sources.
@@ -135,7 +134,7 @@ Future enhancements include:
 
 ## Disclaimer
 
-This project is an independent educational initiative created using publicly available data. It is not affiliated with or endorsed by the University of Delhi or any of its colleges.
+This project is an independent educational initiative created using publicly available data. It is not affiliated with or endorsed by the University of Delhi or any of its constituent colleges.
 
 The dashboard is intended solely for informational and analytical purposes. Users should verify all admission-related decisions through official University of Delhi channels.
 
