@@ -109,17 +109,15 @@ The system is designed to simplify complex admission data into an **interactive 
 
 ---
 
-## Planned Improvements (V2)
+## Planned Improvements
 
 Future enhancements include:
 
-- Multi-year cutoff comparison  
+- Genderwise college selection
 - Fee structure integration  
 - ROI-based analysis (Placement vs Fees)  
-- NAAC and NIRF ranking integration  
+- NIRF ranking integration  
 - Improved college comparison dashboard  
-- Expanded course coverage  
-- Automated yearly data refresh using Power Query  
 
 ---
 
