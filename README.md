@@ -33,12 +33,13 @@ The goal of this project is to create a **decision support system** that organiz
 
 ---
 
-## Features (V1)
+## Features (V1.5)
 
 - Interactive dashboard for DU admissions exploration  
-- Input-based filtering (Course + Marks scored)  
-- Auto-generated list of eligible colleges  
-- Course-wise and category-wise cutoff analysis  
+- Slicer-based filtering (Course + College)  
+- Auto-generated list of eligible colleges with NAAC ratings  
+- Course-wise and category-wise cutoff analysis
+- Gender based filtering of colleges  
 - Power Query-based ETL pipeline for data cleaning  
 - Standardized tables for:
   - Colleges  
@@ -102,7 +103,7 @@ Users can:
 4. Compare institutions using:
    - Admission cutoffs  
    - Placement data  
-   - Institutional indicators (NAAC / NIRF where available)  
+   - Institutional indicators (NAAC where available)  
 5. Analyze relative differences between colleges  
 
 The system is designed to simplify complex admission data into an **interactive decision-making experience**.
@@ -113,7 +114,6 @@ The system is designed to simplify complex admission data into an **interactive 
 
 Future enhancements include:
 
-- Genderwise college selection
 - Fee structure integration  
 - ROI-based analysis (Placement vs Fees)  
 - NIRF ranking integration  
