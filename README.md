@@ -39,7 +39,8 @@ The goal of this project is to create a **decision support system** that organiz
 - Slicer-based filtering (Course + College)  
 - Auto-generated list of eligible colleges with NAAC ratings  
 - Course-wise and category-wise cutoff analysis
-- Gender based filtering of colleges  
+- Gender based filtering of colleges
+- Dynamic charts for data visulaisation 
 - Power Query-based ETL pipeline for data cleaning  
 - Standardized tables for:
   - Colleges  
